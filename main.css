@@ -1,0 +1,32 @@
+body {
+	background-color: white;
+	/ color: #2F3336;
+	/* #efefef; */
+	/* #2F3336 */
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+}
+
+h1 {
+	font-size: 36px;
+	font-weight: 400;
+	color: #C0D06F;
+	margin: 20px;
+}
+
+.jumpers {
+	text-align: center;
+}
+
+.jumpers img {
+	width: 30vh;
+	height: 30vh;
+}
+
+.jumpers p {
+	margin-bottom: 30px;
+}
+
+.jumpers figcaption {
+	margin-top: 8px;
+}
